@@ -565,6 +565,14 @@ categories:
         license: "Open Source"
         price: free
         status: active
+      - name: "Louppe"
+        description: "Cull photos and video from folders and memory cards"
+        url: "https://louppe.eu/"
+        icon: "https://louppe.eu/favicon.png"
+        tags: [image, graphics, open-source]
+        license: "Open Source"
+        price: free
+        status: active
       - name: "Pixave"
         description: "Ultimate image organizer and viewer"
         url: "https://www.pixaveapp.com"
